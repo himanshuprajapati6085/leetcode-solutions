@@ -7,4 +7,9 @@ My LeetCode solutions in Java with daily updates.
 |  |
 | ------- |
 | [1470-shuffle-the-array](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/1470-shuffle-the-array) |
+| [1528-shuffle-string](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/1528-shuffle-string) |
+## String
+|  |
+| ------- |
+| [1528-shuffle-string](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/1528-shuffle-string) |
 <!---LeetCode Topics End-->
