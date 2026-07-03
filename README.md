@@ -8,6 +8,7 @@ My LeetCode solutions in Java with daily updates.
 | ------- |
 | [0001-two-sum](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0268-missing-number) |
+| [0860-lemonade-change](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [1470-shuffle-the-array](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/1528-shuffle-string) |
 ## String
@@ -43,4 +44,8 @@ My LeetCode solutions in Java with daily updates.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0231-power-of-two) |
+## Greedy
+|  |
+| ------- |
+| [0860-lemonade-change](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
