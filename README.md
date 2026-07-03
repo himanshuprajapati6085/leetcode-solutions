@@ -14,6 +14,7 @@ My LeetCode solutions in Java with daily updates.
 ## String
 |  |
 | ------- |
+| [0434-number-of-segments-in-a-string](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [1528-shuffle-string](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/1528-shuffle-string) |
 ## Math
 |  |
