@@ -8,6 +8,7 @@ My LeetCode solutions in Java with daily updates.
 | ------- |
 | [0001-two-sum](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0860-lemonade-change](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [1470-shuffle-the-array](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/1528-shuffle-string) |
@@ -24,6 +25,7 @@ My LeetCode solutions in Java with daily updates.
 | [0268-missing-number](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0367-valid-perfect-square) |
+| [0628-maximum-product-of-three-numbers](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -43,6 +45,7 @@ My LeetCode solutions in Java with daily updates.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Recursion
 |  |
 | ------- |
