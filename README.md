@@ -28,6 +28,7 @@ My LeetCode solutions in Java with daily updates.
 | [0628-maximum-product-of-three-numbers](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1492-the-kth-factor-of-n](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/1492-the-kth-factor-of-n) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Binary Search
@@ -64,4 +65,8 @@ My LeetCode solutions in Java with daily updates.
 |  |
 | ------- |
 | [2180-count-integers-with-even-digit-sum](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
+## Number Theory
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
