@@ -31,6 +31,7 @@ My LeetCode solutions in Java with daily updates.
 | [1492-the-kth-factor-of-n](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/1492-the-kth-factor-of-n) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Binary Search
 |  |
 | ------- |
@@ -69,4 +70,5 @@ My LeetCode solutions in Java with daily updates.
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/1492-the-kth-factor-of-n) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 <!---LeetCode Topics End-->
