@@ -7,6 +7,7 @@ My LeetCode solutions in Java with daily updates.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0001-two-sum) |
+| [0162-find-peak-element](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0860-lemonade-change](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0860-lemonade-change) |
@@ -35,6 +36,7 @@ My LeetCode solutions in Java with daily updates.
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 ## Hash Table
