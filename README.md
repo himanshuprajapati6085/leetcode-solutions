@@ -14,6 +14,7 @@ My LeetCode solutions in Java with daily updates.
 | [0860-lemonade-change](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [1470-shuffle-the-array](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/1528-shuffle-string) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## String
 |  |
 | ------- |
@@ -42,6 +43,7 @@ My LeetCode solutions in Java with daily updates.
 | [0240-search-a-2d-matrix-ii](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0367-valid-perfect-square) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +60,7 @@ My LeetCode solutions in Java with daily updates.
 | ------- |
 | [0268-missing-number](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Recursion
 |  |
 | ------- |
