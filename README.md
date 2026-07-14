@@ -31,6 +31,7 @@ My LeetCode solutions in Java with daily updates.
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1492-the-kth-factor-of-n](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/1492-the-kth-factor-of-n) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
