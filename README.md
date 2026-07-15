@@ -15,11 +15,13 @@ My LeetCode solutions in Java with daily updates.
 | [1470-shuffle-the-array](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2942-find-words-containing-character](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 ## String
 |  |
 | ------- |
 | [0434-number-of-segments-in-a-string](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [1528-shuffle-string](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/1528-shuffle-string) |
+| [2942-find-words-containing-character](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 ## Math
 |  |
 | ------- |
