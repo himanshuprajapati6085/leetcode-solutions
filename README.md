@@ -12,6 +12,7 @@ My LeetCode solutions in Java with daily updates.
 | [0268-missing-number](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0860-lemonade-change](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0860-lemonade-change) |
+| [1331-rank-transform-of-an-array](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1470-shuffle-the-array](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -52,6 +53,7 @@ My LeetCode solutions in Java with daily updates.
 | ------- |
 | [0001-two-sum](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0268-missing-number) |
+| [1331-rank-transform-of-an-array](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -63,6 +65,7 @@ My LeetCode solutions in Java with daily updates.
 | ------- |
 | [0268-missing-number](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1331-rank-transform-of-an-array](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Recursion
 |  |
