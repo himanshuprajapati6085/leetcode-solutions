@@ -7,6 +7,7 @@ My LeetCode solutions in Java with daily updates.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0162-find-peak-element](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0268-missing-number) |
@@ -20,6 +21,7 @@ My LeetCode solutions in Java with daily updates.
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0434-number-of-segments-in-a-string](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [1528-shuffle-string](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [2942-find-words-containing-character](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/2942-find-words-containing-character) |
@@ -94,4 +96,8 @@ My LeetCode solutions in Java with daily updates.
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
