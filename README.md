@@ -19,6 +19,7 @@ My LeetCode solutions in Java with daily updates.
 | [1979-find-greatest-common-divisor-of-array](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2942-find-words-containing-character](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/2942-find-words-containing-character) |
+| [3312-sorted-gcd-pair-queries](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## String
 |  |
 | ------- |
@@ -41,6 +42,7 @@ My LeetCode solutions in Java with daily updates.
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
@@ -52,12 +54,14 @@ My LeetCode solutions in Java with daily updates.
 | [0268-missing-number](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -89,6 +93,7 @@ My LeetCode solutions in Java with daily updates.
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Divide and Conquer
@@ -103,4 +108,16 @@ My LeetCode solutions in Java with daily updates.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
+## Counting
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
+## Prefix Sum
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
