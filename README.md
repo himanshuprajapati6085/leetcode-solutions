@@ -24,6 +24,7 @@ My LeetCode solutions in Java with daily updates.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0389-find-the-difference](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0434-number-of-segments-in-a-string](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [1528-shuffle-string](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [2942-find-words-containing-character](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/2942-find-words-containing-character) |
@@ -62,6 +63,7 @@ My LeetCode solutions in Java with daily updates.
 | ------- |
 | [0001-two-sum](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Bit Manipulation
@@ -70,11 +72,13 @@ My LeetCode solutions in Java with daily updates.
 | [0231-power-of-two](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sorting
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
