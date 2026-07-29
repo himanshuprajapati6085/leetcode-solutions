@@ -15,6 +15,7 @@ My LeetCode solutions in Java with daily updates.
 | [0704-binary-search](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [1331-rank-transform-of-an-array](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1470-shuffle-the-array](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -59,6 +60,7 @@ My LeetCode solutions in Java with daily updates.
 | [0268-missing-number](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0704-binary-search) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3312-sorted-gcd-pair-queries](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -116,6 +118,7 @@ My LeetCode solutions in Java with daily updates.
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Trie
 |  |
 | ------- |
