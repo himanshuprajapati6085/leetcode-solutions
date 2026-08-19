@@ -35,6 +35,7 @@ My LeetCode solutions in Java with daily updates.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0326-power-of-three) |
@@ -92,6 +93,7 @@ My LeetCode solutions in Java with daily updates.
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/0326-power-of-three) |
 ## Greedy
