@@ -23,6 +23,7 @@ My LeetCode solutions in Java with daily updates.
 | [2089-find-target-indices-after-sorting-array](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2942-find-words-containing-character](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/2942-find-words-containing-character) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## String
 |  |
@@ -106,6 +107,7 @@ My LeetCode solutions in Java with daily updates.
 |  |
 | ------- |
 | [2180-count-integers-with-even-digit-sum](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Number Theory
 |  |
 | ------- |
