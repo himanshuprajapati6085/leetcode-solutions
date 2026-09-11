@@ -26,6 +26,7 @@ My LeetCode solutions in Java with daily updates.
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3895-count-digit-appearances](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/3895-count-digit-appearances) |
+| [3903-smallest-stable-index-i](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 ## String
 |  |
 | ------- |
@@ -148,4 +149,5 @@ My LeetCode solutions in Java with daily updates.
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3903-smallest-stable-index-i](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
