@@ -25,6 +25,7 @@ My LeetCode solutions in Java with daily updates.
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2942-find-words-containing-character](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3312-sorted-gcd-pair-queries](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3895-count-digit-appearances](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/3895-count-digit-appearances) |
 | [3903-smallest-stable-index-i](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
@@ -54,6 +55,7 @@ My LeetCode solutions in Java with daily updates.
 | [1979-find-greatest-common-divisor-of-array](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2235-add-two-integers](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/2235-add-two-integers) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3312-sorted-gcd-pair-queries](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3536-maximum-product-of-two-digits](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
