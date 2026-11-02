@@ -27,6 +27,7 @@ My LeetCode solutions in Java with daily updates.
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3312-sorted-gcd-pair-queries](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3895-count-digit-appearances](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/3895-count-digit-appearances) |
 | [3903-smallest-stable-index-i](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
 ## String
@@ -60,6 +61,7 @@ My LeetCode solutions in Java with daily updates.
 | [3536-maximum-product-of-two-digits](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3895-count-digit-appearances](https://github.com/himanshuprajapati6085/leetcode-solutions/tree/master/3895-count-digit-appearances) |
